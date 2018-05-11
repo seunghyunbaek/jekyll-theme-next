@@ -5,9 +5,11 @@
 
 # Site
 title: SeungHyunBaek
-subtitle:
+subtitle: Logging Blog
+# description is profile description
 description: Blogging is Fun
-author: John Doe
+# author is profile name
+author: SeungHyun Baek
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -19,7 +21,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 5
+paginate: 10
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
