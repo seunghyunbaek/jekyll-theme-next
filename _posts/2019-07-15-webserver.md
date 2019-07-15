@@ -1,7 +1,7 @@
 ---
-title: Using Alexa in Raspberry Pi3 <br> 라즈베리파이3로 알렉사 사용하기
+title: 웹서버, WAS, 웹 프레임워크는 무엇일까?
 categories: TIL
-tags:
+tags: webserver
 ---
 
 ## 웹서버, WAS, 웹 프레임워크는 무엇일까?
