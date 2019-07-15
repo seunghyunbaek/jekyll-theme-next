@@ -1,6 +1,6 @@
 ---
 title: Using Alexa in Raspberry Pi3 <br> 라즈베리파이3로 알렉사 사용하기
-categories: project
+categories: TIL
 tags: web server, was, app server, web framework
 ---
 
