@@ -1,7 +1,11 @@
 ---
 title: 웹서버, WAS, 웹 프레임워크는 무엇일까?
-categories: TIL
-tags: webserver
+categories: 
+- TIL
+tags: 
+- web server
+- was
+- web framework
 ---
 
 ## 웹서버, WAS, 웹 프레임워크는 무엇일까?
